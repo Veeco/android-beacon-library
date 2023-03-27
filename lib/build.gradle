@@ -82,7 +82,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.veeco.android-beacon-library'
                 artifactId = 'veeco'
-                version = '1.0.3'
+                version = '1.0.4'
             }
         }
     }
